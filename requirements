@@ -4,3 +4,6 @@ pandas
 xlsxwriter
 ipykernel
 python-dotenv
+scikit-learn
+seaborn
+matplotlib
