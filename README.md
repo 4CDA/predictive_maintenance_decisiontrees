@@ -57,7 +57,7 @@ Generative AI models produce new content (text, code, images) by learning from l
   "comment": "Engine ID 263 shows signs of power failure with elevated vibration levels at 42.0. Operational hours are at 81.3, indicating potential wear. Immediate attention required.",
   "action": "Conduct thorough inspection and address vibration; consider part replacement."
 }
-
+```
 
 ## Installation & Usage
 
@@ -67,6 +67,7 @@ Generative AI models produce new content (text, code, images) by learning from l
 
 ```bash
 pip install -r requirements
+```
 
 3. Set your OpenAI API key in environment variables
 
@@ -85,7 +86,7 @@ Precision: Perfect for flagging inspections
 Processing 500 records costs about $0.03 USD on GPT-4o-mini, demonstrating affordability at scale.
 
 Repository Structure
-bash
+``` bash
 Copy
 Edit
 /
@@ -93,4 +94,4 @@ Edit
 ├── scripts/                    # Python modules for each workflow step
 ├── README.md                   # Project overview and instructions
 ├── requirements.txt            # Dependencies list
-└── main.py / notebook.ipynb    # Orchestration scripts
+└── main.py / notebook.ipynb    # Orchestration scripts```
