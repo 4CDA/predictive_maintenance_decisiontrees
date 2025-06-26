@@ -47,13 +47,21 @@ Benchmarked the custom models against scikit-learn implementations to assess per
 ## Results
 ### Model	Accuracy
 Decision Tree(scikit-learn):0.92
+
 Random Forest:0.81
+
 Gradient Boosting:0.83
+
 AdaBoost:0.79
+
 XGBoost:0.85
+
 LightGBM:0.84
+
 CatBoost	0.86
+
 Custom Decision Tree:0.84
+
 Custom Gradient Boosting:0.96
 
 The custom gradient boosting model outperformed all other models, achieving an accuracy of 96%. Notably, it demonstrated superior precision and recall for the minority failure class, indicating its effectiveness in detecting rare but critical failure events.
@@ -72,12 +80,7 @@ Process Temperature [K]: 0.1022
 Torque [Nm]: 0.0575
 
 Vibration Levels: 0.0562
-docs.github.com
-+10
-slingacademy.com
-+10
-stackoverflow.com
-+10
+
 
 Understanding feature importance aids in pinpointing key factors contributing to equipment failures, facilitating targeted maintenance strategies.
 
