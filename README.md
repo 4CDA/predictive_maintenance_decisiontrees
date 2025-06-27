@@ -97,7 +97,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/predictive-maintenance.git
+git clone [https://github.com/yourusername/predictive-maintenance.git](https://github.com/4CDA/predictive_maintenance_decisiontrees.git)
 cd predictive-maintenance
 Install dependencies:
 
